@@ -1,0 +1,4 @@
+ 1. complete git
+ 2. Learn cloud formation templates
+    2.1 creating stack
+    2.2 deleting stack
